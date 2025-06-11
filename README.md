@@ -1,4 +1,5 @@
 # 👓 Lunette Intelligente pour Malvoyants
+![Prototype](images/prototype-lunette.jpg)
 
 Dans le cadre de mon projet de fin d’année, j’ai conçu une solution technologique complète pour aider les personnes malvoyantes à gagner en autonomie, sécurité et confort.
 
